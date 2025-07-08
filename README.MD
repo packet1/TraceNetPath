@@ -10,6 +10,7 @@ pip install dnspython
 Example output using one a public domains is shown below.    
 
  
-!(https://github.com/packet1/TraceNetPath/blob/main/image/example.png)
+<picture>https://github.com/packet1/TraceNetPath/blob/main/image/example.png</picture>
+
 
 
