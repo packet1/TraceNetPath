@@ -6,3 +6,10 @@ It requires Python3 on Windows and the following python dependencies:
 pip install psutil
 
 pip install dnspython
+
+Example output using one a public domains is shown below.    
+
+ 
+
+
+
