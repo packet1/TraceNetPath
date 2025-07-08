@@ -10,6 +10,6 @@ pip install dnspython
 Example output using one a public domains is shown below.    
 
  
-!(https:/image/example.png)
+!(https://image/example.png)
 
 
